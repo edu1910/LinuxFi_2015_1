@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExemploRes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_ola_mundo">Hello big World!</string>
+    <string name="log">Log</string>
+</resources>
