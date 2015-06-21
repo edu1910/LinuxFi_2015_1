@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExercicioAula1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="entrar">Enter</string>
+    <string name="bemvindo_android">Welcome, Android!</string>
+    <string name="sair">Exit</string>
+    <string name="voltar">Back</string>
+    <string name="usuariosenha_invalidos">User/password wrong.</string>
+    <string name="usuario">User</string>
+    <string name="senha">Password</string>
+</resources>

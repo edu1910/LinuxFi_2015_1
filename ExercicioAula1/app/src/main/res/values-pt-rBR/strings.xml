@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="entrar">Entrar</string>
+    <string name="bemvindo_android">Seja bem vindo, Android!</string>
+    <string name="sair">Sair</string>
+    <string name="voltar">Voltar</string>
+    <string name="usuariosenha_invalidos">Usuário/senha inválidos.</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+</resources>
