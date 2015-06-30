@@ -1,0 +1,47 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:autoLink="all"
+        android:ellipsize="marquee"
+        android:hint="N/A"/>
+
+    <EditText
+        android:id="@+id/edtTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_input_get"
+        android:singleLine="true"
+        android:imeOptions="actionSearch"/>
+
+    <Button
+        android:onClick="onChangeClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mudar"/>
+
+    <ImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/imagem"
+        android:alpha="1"/>
+    <SeekBar
+        android:id="@+id/sbImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:progress="255"
+        android:max="255"/>
+
+</LinearLayout>
