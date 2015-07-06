@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ba3e00</color>
+    <color name="colorDarkPrimary">#ab0e00</color>
+    <color name="colorAccent">#ff9200</color>
+    <color name="colorDarkAccent">#ce8200</color>
+
+    <color name="colorBackground">#ba3e00</color>
+    <color name="colorLabel">@color/colorBackground</color>
+
+    <color name="separator">#ccc</color>
+</resources>
